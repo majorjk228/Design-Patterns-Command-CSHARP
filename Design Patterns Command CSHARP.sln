@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Patterns Command CSHARP", "Design Patterns Command CSHARP.csproj", "{E5985BB3-C0AC-479B-9640-026A2B27F2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5985BB3-C0AC-479B-9640-026A2B27F2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5985BB3-C0AC-479B-9640-026A2B27F2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5985BB3-C0AC-479B-9640-026A2B27F2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5985BB3-C0AC-479B-9640-026A2B27F2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C888ADE-E19D-4369-9A4A-481E6B5B3AD0}
+	EndGlobalSection
+EndGlobal
